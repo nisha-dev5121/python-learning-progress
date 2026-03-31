@@ -1,0 +1,4 @@
+name = "nisha is a  good  girl"
+print(name.find("  "))   #this will return the index of the first occurrence of the substring "  " in the string "nisha is a  good girl". In this case, it will return 10 because the first occurrence of "  " is at index 10.
+print(name.find("good"))   #this will return the index of the first occurrence of the substring "good" in the string "nisha is a  good girl   ". In this case, it will return 13 because the first occurrence of "good" is at index 13.
+print(name.find("bad"))   #this will return -1 because the substring "bad" is not present in the string "nisha is a good girl". When the substring is not found, the find() method returns -1.  
