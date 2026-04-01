@@ -1,5 +1,5 @@
 marks = {
-    "Harry": 100,
+    "Harry": 98,
     "Nisha": 100,
     "Rohan": 43,
 }
@@ -17,7 +17,7 @@ marks = {
 # so here we don't have index value assigned to names,
 # we can just write the key value to get the paired key value.
 # this is useful cause if there were a list of 10000 students, we can just easily look up the name 
-# and it will show use it's corresponding marks.
+# and it will show us it's corresponding marks.
 # or write the mark key value and get the names attchted to it.
 
 
